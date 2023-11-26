@@ -1,0 +1,10 @@
+name: "@ehofesmann/detection_evaluation_plots"
+description: Visualization of object detection evaluation plots in a FiftyOne App panel
+version: 1.0.0
+fiftyone:
+  version: "*"
+url: https://github.com/ehofesmann/detection_evaluation_plots
+license: Apache 2.0
+operators:
+  - open_plotly_panel
+  - get_plotly_plots
